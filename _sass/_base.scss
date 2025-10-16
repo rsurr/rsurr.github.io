@@ -617,6 +617,34 @@ details {
     }
   }
 
+  // PDF Button styling
+  .btn--pdf {
+    display: inline-block;
+    background-color: #dc3545;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    margin-left: 0.5rem;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border: 1px solid #dc3545;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      background-color: #c82333;
+      border-color: #bd2130;
+      color: white;
+      text-decoration: none;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    i {
+      margin-right: 0.25rem;
+    }
+  }
+
   .card {
     img {
       width: 100%;

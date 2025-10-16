@@ -16,7 +16,11 @@ horizontal: false
 <div class="post-content research-project">
   <details>
 	<summary>
-  <strong>High Cotton: Vertical Integration in the US Market for Seeds</strong> </summary> <br> 
+  <strong>High Cotton: Vertical Integration in the US Market for Seeds</strong> 
+  <a href="/assets/pdf/high-cotton.pdf" target="_blank" class="btn btn--pdf">
+    <i class="fas fa-file-pdf"></i> PDF
+  </a>
+  </summary> <br> 
 
     <p style="margin-left: 25px;">
     I empirically study the trade-off between efficiency and foreclosure arising from vertical integration in the context of Monsanto's 2007 acquisition of Delta and Pine Land, the leading provider of genetically engineered (GE) cotton seeds in the United States. I leverage publicly available information to show that Monsanto increased the price of an essential genetic technology it licensed to downstream rival firms after the merger. Using farm survey data, I find that cotton farmers' seed costs increased by at least 30% relative to farmers growing crops unaffected by the merger. I argue that these facts are consistent with a rising rivals' costs strategy, given that these price effects are observed only in states where the vertically integrated firm's downstream affiliate had low pre-merger market shares. Finally, I show that the vertically integrated firm introduced products with higher yields relative to its competitors post-merger, a pattern consistent with merger induced efficiencies. I then develop and estimate a structural model to quantify the welfare impact of merger remedies put in place by the Department of Justice in 2007. I find that DOJ mandated divestitures increased consumer surplus by 0.5%.
@@ -31,6 +35,9 @@ horizontal: false
   <details>
 	<summary>
   <strong> Price Regulation of Agricultural Technology</strong>
+  <a href="/assets/pdf/india_pricecontrols.pdf" target="_blank" class="btn btn--pdf">
+    <i class="fas fa-file-pdf"></i> PDF
+  </a>
   <p>with <a href="https://matteo-ruzzante.com">Matteo Ruzzante </a> </p> <br> </summary>
 
     <p style="margin-left: 25px;">
@@ -50,6 +57,9 @@ horizontal: false
   <details>
 	<summary>
   <strong> Effects of Public Funding on Firm Innovation: Transforming or Reinforcing a Weak Innovation Pattern?</strong>
+  <a href="/assets/pdf/public-funding-innovation.pdf" target="_blank" class="btn btn--pdf">
+    <i class="fas fa-file-pdf"></i> PDF
+  </a>
   <p>with <a href="https://iecon.fcea.udelar.edu.uy/es/integrantes/investigadores-consolidados/item/bianchi-carlos.html?category_id=487">Carlos Bianchi</a></p>
   <p style='margin-bottom: 0em; margin-top: -1em;'> <em>Economics of Innovation and New Technology</em>, 29(5), 2020 <a href="https://www.tandfonline.com/doi/abs/10.1080/10438599.2019.1636452">[Full text]</a></p></summary> <br> 
 
@@ -66,6 +76,9 @@ horizontal: false
   <details>
 	<summary>
   <strong> Entry Regulation in Retail Markets</strong>
+  <a href="/assets/pdf/entry-regulation-retail.pdf" target="_blank" class="btn btn--pdf">
+    <i class="fas fa-file-pdf"></i> PDF
+  </a>
   <p><em>Master's thesis</em> <a href="https://www.eief.it/eief/images/Master_Thesis_Berrutti_rev.pdf">[Full text]</a></p> </summary> <br> 
 
     <p style="margin-left: 25px;">
@@ -82,6 +95,9 @@ horizontal: false
   <details>
 	<summary>
   <strong> Place-based Subsidies and Location Decisions: The Case of Uruguay</strong>
+  <a href="/assets/pdf/place-based-subsidies.pdf" target="_blank" class="btn btn--pdf">
+    <i class="fas fa-file-pdf"></i> PDF
+  </a>
   <p> <em>Undergraduate thesis</em> <a href="https://www.proquest.com/scholarly-journals/place-based-subsidies-location-decisions-case/docview/1930794087/se-2">[Full text]</a> <a href="https://ladiaria.com.uy/politica/articulo/2017/6/los-efectos-de-la-ley-de-promocion-de-vivienda-de-interes-social/">[La Diaria (press summary, in Spanish)]</a> </p> </summary> <br> 
 
     <p style="margin-left: 25px;">
