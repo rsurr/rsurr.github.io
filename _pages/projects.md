@@ -30,11 +30,11 @@ horizontal: false
 <div class="post-content research-project">
   <details>
 	<summary>
-  <strong> Price Regulation of Agricultural Technology</strong>
+  <strong> Price Regulation and the Adoption–Innovation Trade-off</strong>
   <p>with <a href="https://matteo-ruzzante.com">Matteo Ruzzante</a> &nbsp;&nbsp; <a href="/assets/pdf/india_pricecontrols.pdf" target="_blank" style="color: #dc3545; text-decoration: none;">[PDF <i class="fas fa-file-pdf"></i>]</a></p> <br> </summary>
 
     <p style="margin-left: 25px;">
-    Regulating the price of productivity-enhancing inputs can allow governments to facilitate the diffusion of existing technologies but deter private firms from investing in innovation and introducing superior technologies. This project studies the demand and supply-side consequences of price controls on genetically engineered (GE) cotton seeds in India. Leveraging the differential timing and intensity of this policy across states, we show that the government-mandated price reduction increased farmers’ adoption of GE seeds by 20pp. Using newly assembled data from experimental field trials across India, we show that agronomic yields of new varieties worsen by 30% in price-controlled states. We develop and estimate a structural model of demand and supply of cotton seeds to quantify the welfare impact of these price and quality responses. Preliminary results indicate that the policy increased aggregate farmer surplus. Importantly, we show that ignoring endogenous quality adjustments substantially overstates the policy's impact on welfare.
+    Regulating technology prices can raise adoption yet deter innovation. In India, price controls on genetically engineered (GE) cotton seeds induced this trade-off. Leveraging the policy’s differential timing across states, we show that mandated price reductions accelerated adoption of GE seeds by farmers. Although seed supply kept pace, innovation stalled: fewer new varieties were introduced. Using newly assembled data from experimental field trials across India, we show that agronomic yields of new varieties fell in price-controlled states. To quantify the welfare implications of price and yield effects, we develop and estimate a structural model of demand and supply for seeds with endogenous product attributes. While the policy raised farmers’ surplus, especially among the poor, ignoring innovation responses in equilibrium vastly overstates their welfare gains. We use the estimated model to assess alternative policies that better balance adoption and innovation incentives. For a given public budget, incentives for seed developers tied to the productivity of new varieties achieve the highest welfare for farmers.
     </p>
     </details>
 
