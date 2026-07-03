@@ -2,92 +2,35 @@
   type: map
   contents:
     - name: Name
-      value: Felipe Berrutti
+      value: Rodrigo Surraco
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Economics
-      institution: <a href="https://economics.northwestern.edu"> Northwestern University</a>
-      year: 2020 - 2024
-    - title: MA in Economics and Finance
-      institution: <a href="https://www.romemaster.it">LUISS Guido Carli - Einaudi Institute for Economics and Finance</a>
-      year: 2018 - 2020
-    - title: Licenciatura en Economía
-      institution: <a href="https://fcea.udelar.edu.uy/departamentos-academicos/dpto-de-economia.html">Universidad de la República</a>
-      year: 2011 - 2015
+    - title: Add your degree or program
+      institution: Add your institution
+      year: Add dates
 
 - title: Experience
   type: time_table
   contents:
-    - title: Associate
-      institution: <a href="https://www.analysisgroup.com"> Analysis Group</a>
-      year: 2025 - present
-    - title: Summer Associate
-      institution: <a href="https://www.analysisgroup.com"> Analysis Group</a>
-      year: 2024
-    - title: Teaching asisstant
-      institution: Northwestern University
-      year: 2021 - 2024
+    - title: Add your current role
+      institution: Add your organization
+      year: Add dates
       description:
-        - Senior Honors Thesis Seminar (undergraduate)
-        - Introduction to Microeconomics (undergraduate)
-    - title: Research assistant to Prof. Gastón Illanes
-      institution: Northwestern University
-      year: 2021 - 2022
-    - title: Research assistant to Prof. Andrea Pozzi
-      institution: Einaudi Institute for Economics and Finance
-      year: 2019
-    - title: Research assistant to Prof. Carlos Bianchi
-      institution: Universidad de la República
-      year: 2016 - 2018
-    - title: Teaching assistant 
-      institution: Universidad de la República
-      year: 2016 - 2018
-      description:
-        - Databases and Statistical Packages (undergraduate)
-        - Industrial Organization (undergraduate)
-        - Linear Algebra (undergraduate)
-        - Introduction to Calculus (undergraduate)
-        - Principles of Economics (undergraduate)    
-    - title: Technical staff 
-      institution: Ministry of Social Development, Uruguay
-      year: 2015 - 2016
-    - title: Intern 
-      institution: United Nations Development Program, Uruguay
-      year: 2013 - 2015
+        - Add a concise description of your work.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
+    - year: Add year
       items:
-        -  Distinguished Teaching Assistant Award, Northwestern University
-    - year: 2024
-      items:
-        -  <a href="https://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-fellowships-grants/graduate-research-grant.html"> Graduate Research Grant</a>, Northwestern University
-    - year: 2024
-      items:
-        -  <a href="https://weissfund.uchicago.edu/travel-and-piloting/"> Weiss Fund Travel and Piloting Grant</a>, University of Chicago
-    - year: 2023
-      items:
-        -  <a href="https://economics.northwestern.edu/graduate/funding/graduate-student-awards.html"> Susan Schmidt Bies Prize</a>, Northwestern University
-    - year: 2020
-      items:
-        - <a href="https://www.eief.it/eief/index.php/rome-theses"> Best Master Thesis</a>, LUISS Guido Carli - Einaudi Institute for Economics and Finance 
-    - year: 2018 - 2020
-      items:
-        - <a href="https://www.romemaster.it/scholarships/"> RoME scholarship</a>, Einaudi Institute for Economics and Finance 
-    - year: 2016 - 2017
-      items:
-        - Research initiation scholarship, Instituto de Economía
+        - Add honors, awards, certifications, or remove this section.
 
 - title: Other
   type: map
   contents:
     - name: Languages
-      value: English, Italian, Portuguese, Spanish
+      value: Add languages
     - name: Programming Skills
-      value: Julia, Python, R, Stata, MATLAB, QGIS
-    - name: Citizenship
-      value: Uruguayan and Italian
+      value: Add tools, languages, and frameworks
